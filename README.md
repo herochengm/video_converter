@@ -60,9 +60,14 @@ Get the latest version from Google Play:
 
 https://play.google.com/store/apps/details?id=com.wyl.transcoder&hl=en
 
+
 ---
 
 ## ⚠️ Disclaimer
 
 AVShift is **not affiliated with YouTube, TikTok, or any other social media platform**.  
 Please respect copyright laws and only download or convert content that you own or have permission to use.
+
+https://www.bttc.site
+
+https://www.bttc.site/software/video_downloader
